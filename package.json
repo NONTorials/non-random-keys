@@ -1,12 +1,18 @@
 {
   "name": "non-random-keys",
-  "version": "1.0.6",
-  "description": "",
+  "version": "1.0.1",
+  "description": "NPM para generar 'keys' aleatorias para diversos propositos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["keys", "ids", "random", "id", "help"],
+  "keywords": [
+    "keys",
+    "ids",
+    "random",
+    "id",
+    "help"
+  ],
   "author": "NON",
   "license": "ISC"
 }
