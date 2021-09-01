@@ -1,12 +1,12 @@
 {
   "name": "non-random-keys",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["keys", "ids", "random", "id", "help"],
+  "author": "NON",
   "license": "ISC"
 }
