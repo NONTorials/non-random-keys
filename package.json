@@ -1,6 +1,6 @@
 {
   "name": "non-random-keys",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "NPM para generar 'keys' aleatorias para diversos propositos",
   "main": "index.js",
   "scripts": {
